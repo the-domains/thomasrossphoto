@@ -1,0 +1,28 @@
+name: thomasrossphoto
+favicon: null
+layout_spectrum: 0.7949850717559457
+typography_spectrum: 0.9950359493959695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3250788920558989
+  lightness: 0.3408032935112715
+  saturation: 0.34256891533732414
+  rhythmicContrast: 0.690507885068655
+purpose: []
